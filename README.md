@@ -1,6 +1,8 @@
 # Robot
 Danh sách thành viên:
   - Nguyễn Trọng Dương
+  
+  - Nguyễn Duy Võ Anh
 
 Assignment kết hợp giữa di chuyển trong môi trường và object detection
 
